@@ -5,7 +5,7 @@
 
 A modern messaging app where users can sign up and log in to chat. This apps is incorporated with Firebase.Also this app use Firebase Cloud Firestore as well as the Firebase authentication package to use a cloud-based NoSQL database and secure authentication methods.
 
-![Finished App](https://github.com/Shawon-Lodh/Bitcoin-Exchange/blob/main/bitcoin.gif)
+![Finished App](https://github.com/Shawon-Lodh/Flash-Chat/blob/main/flash_chat.gif)
 
 ## Language
 - Dart
